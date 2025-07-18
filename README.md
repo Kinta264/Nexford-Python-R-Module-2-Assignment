@@ -67,3 +67,4 @@ https://www.youtube.com/watch?v=7Tk15l23Ctg
 You can contact me at email below.
 
 - Email: kinta.petonia@gmail.com
+- Github: https://github.com/Kinta264/Nexford-Python-R-Module-2-Assignment/commits?author=Kinta264
