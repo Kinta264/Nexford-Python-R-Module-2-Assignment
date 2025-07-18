@@ -9,7 +9,7 @@ This readme file is to be used as guide for the code running of the module 2 ass
 
 ## **Table of Contents**
 
-- [Extraction](#extraction)
+- [Access](#access)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Acknowledgements](#acknowledgements)
