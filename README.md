@@ -35,12 +35,13 @@ To access the Github repository, go to the URL https://github.com/Kinta264/Nexfo
 ## **Usage**
 
 You are recommended to use the python file first.
-The assignment is divided into several responses from question 1 to 3.
+The assignment is structured to begin with importing the libraries and salary data.
+After checking the formatting and data summary, we try to clean the data for proper and reliable analysis.
 You can run the code at each step to see the progression of the answer to assignment.
 Upon completion of python code review, you can open the R file.
 
-In the R file, you can see the step by step structure of the code.
-And you can run the code at the loop section to see full result of the payment slip print out.
+In the R file, you can see the step by step structure of the code same as that of the python version.
+The function and return coding are at the last stage of the file.
 
 ---
 
@@ -49,6 +50,11 @@ And you can run the code at the loop section to see full result of the payment s
 I credit the youtube channels below for my beginner study in programming/coding:
 https://www.youtube.com/@freecodecamp
 https://www.youtube.com/@programmingwithmosh
+
+For salary data analysis, I derive info from below shared code:
+https://www.kaggle.com/code/hasnamohamed/san-francisco-salaries-analysis
+https://www.kaggle.com/code/mahmoudelhout/sf-salaries-data-analysis-ml
+https://www.kaggle.com/code/chawthinn21/san-francisco-salaries-data-analysis-with-pandas
 
 And for the creation of this readme file, I use sample from:
 https://www.youtube.com/watch?v=7Tk15l23Ctg 
